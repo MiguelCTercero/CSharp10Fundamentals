@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C4w8rHNAK3Frf00ac11E1XbseoQvWYij2aj7TR/vBPpSvE9LnZzYxUTMxphN2nbWBAt2fy4WMqxSXmti3YIvfw==",
+  "success": true,
+  "projectFilePath": "/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/BethanysPieShopHRM.csproj",
+  "expectedPackageFiles": [
+    "/home/cuixtli/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.18/microsoft.netcore.app.host.linux-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

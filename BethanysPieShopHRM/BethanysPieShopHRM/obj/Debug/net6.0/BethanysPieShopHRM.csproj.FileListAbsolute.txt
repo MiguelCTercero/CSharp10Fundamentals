@@ -1,0 +1,15 @@
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/bin/Debug/net6.0/BethanysPieShopHRM
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/bin/Debug/net6.0/BethanysPieShopHRM.deps.json
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/bin/Debug/net6.0/BethanysPieShopHRM.runtimeconfig.json
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/bin/Debug/net6.0/BethanysPieShopHRM.dll
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/bin/Debug/net6.0/BethanysPieShopHRM.pdb
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.csproj.AssemblyReference.cache
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.AssemblyInfoInputs.cache
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.AssemblyInfo.cs
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.dll
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/refint/BethanysPieShopHRM.dll
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.pdb
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.genruntimeconfig.cache
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/ref/BethanysPieShopHRM.dll
