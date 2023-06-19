@@ -1,0 +1,15 @@
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/bin/Debug/net7.0/HelloWorldFromCLI
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/bin/Debug/net7.0/HelloWorldFromCLI.deps.json
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/bin/Debug/net7.0/HelloWorldFromCLI.runtimeconfig.json
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/bin/Debug/net7.0/HelloWorldFromCLI.dll
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/bin/Debug/net7.0/HelloWorldFromCLI.pdb
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/obj/Debug/net7.0/HelloWorldFromCLI.csproj.AssemblyReference.cache
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/obj/Debug/net7.0/HelloWorldFromCLI.GeneratedMSBuildEditorConfig.editorconfig
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/obj/Debug/net7.0/HelloWorldFromCLI.AssemblyInfoInputs.cache
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/obj/Debug/net7.0/HelloWorldFromCLI.AssemblyInfo.cs
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/obj/Debug/net7.0/HelloWorldFromCLI.csproj.CoreCompileInputs.cache
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/obj/Debug/net7.0/HelloWorldFromCLI.dll
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/obj/Debug/net7.0/refint/HelloWorldFromCLI.dll
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/obj/Debug/net7.0/HelloWorldFromCLI.pdb
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/obj/Debug/net7.0/HelloWorldFromCLI.genruntimeconfig.cache
+/home/cuixtli/repo/Training/PluralSight/CSharp10Fundamentals/HelloWorldFromCLI/obj/Debug/net7.0/ref/HelloWorldFromCLI.dll
